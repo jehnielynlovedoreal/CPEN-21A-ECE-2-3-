@@ -1,0 +1,11 @@
+print("Welcome to Phyton Programming")
+Welcome to Phyton Programming
+H= ("Jehnielyn R. Lovedoreal")
+E= ("20 years old")
+Y= ("Blk 14 Lot 2 Brgy. San Antonio de Padua - 1, Dasmarinas City, Cavite")
+print("Hi, my name is "+ H)
+print("I am " + E)
+print("I live in " + Y)
+Hi, my name is Jehnielyn R. Lovedoreal
+I am 20 years old
+I live in Blk 14 Lot 2 Brgy. San Antonio de Padua - 1, Dasmarinas City, Cavite
